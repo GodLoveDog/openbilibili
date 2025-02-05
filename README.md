@@ -3,7 +3,7 @@
 ##### 项目规范
 1,每个目录 需要有独立的README.md  CHANGELOG.md CONTRIBUTORS.md，具体可以参考：
 http://git.bilibili.co/platform/go-common/tree/master/business/service/archive
-测试
+
 2,以后每个业务或者基础组件维护自己的版本号，在CHANGELOG.md中，rider 构建以后的tag关联成自己的版本号；
 
 3,整个大仓库不再有tag，只有master 主干分支，所有mr发送前，一定要注意先merge master；
